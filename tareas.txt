@@ -1,7 +1,7 @@
 === LISTA DE TAREAS DEL EQUIPO ===
 
 PENDIENTES A:
--
+- Esta es la primera tarea de A
 -
 -
 -
@@ -11,7 +11,7 @@ PENDIENTES A:
 
 
 PENDIENTES B:
--
+- Primera tarea de B
 -
 -
 -
@@ -21,7 +21,7 @@ PENDIENTES B:
 
 
 PENDIENTES C:
--
+- Primera tarea de C
 -
 -
 -
