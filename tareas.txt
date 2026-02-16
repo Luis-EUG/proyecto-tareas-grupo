@@ -21,7 +21,7 @@ PENDIENTES B:
 
 
 PENDIENTES C:
--
+- Primera tarea de C
 -
 -
 -
